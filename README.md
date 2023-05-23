@@ -1,2 +1,2 @@
-# E-COMMERCE-WEBSITE-
-I developed a E-commerce website using HTML,CSS and JS .
+# E-COMMERCE-WEBSITE
+Its a Basic eCommerce static WebPage,Where we can order for Branded expensive clothes which is coded purely in HTML,CSS and JavaScript
